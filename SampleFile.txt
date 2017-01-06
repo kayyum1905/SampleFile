@@ -1,0 +1,1 @@
+before second commit and after first commit this sentence was typed
