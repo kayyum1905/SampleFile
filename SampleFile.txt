@@ -1,1 +1,2 @@
 before second commit and after first commit this sentence was typed
+Now this senctence will be available via new commit (3rd) but in different bracnh (testing)
