@@ -2,3 +2,4 @@ before second commit and after first commit this sentence was typed
 Now this senctence will be available via new commit (3rd) but in different bracnh (testing)
 Well finally, all this will be merged and on master branch 4th commit this final version can be read.
 Thx. 
+ps. this part will be pulled from remotre to local repository
